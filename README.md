@@ -7,12 +7,12 @@ A powerful web application security testing toolkit by PortSwigger.
 - [Documentation](https://portswigger.net/burp/documentation)
 - [Web Security Academy](https://portswigger.net/web-security)
 
-
 A curated collection of Burp Suite Intruder payloads, BurpBounty profiles, fuzzing wordlists, file upload security test cases, web penetration testing methodologies, and comprehensive security testing checklists.
 
 This repository is designed to help penetration testers, bug bounty hunters, and security researchers streamline their web application security assessments through organized resources and structured testing methodologies.
 
-📦 What's Included
+### 📦 What's Included
+
 🔍 Reconnaissance: Application discovery, endpoint enumeration, and attack surface mapping.
 💉 Payload Collections: Burp Suite Intruder payloads and BurpBounty testing profiles.
 🧪 Fuzzing Wordlists: Resources for parameter discovery, directory enumeration, and input validation testing.
@@ -23,10 +23,9 @@ This repository is designed to help penetration testers, bug bounty hunters, and
 📚 Security Resources: References, documentation, and practical learning materials.
 
 
-⚖️ Disclaimer
+### ⚖️ Disclaimer
 
 For educational purposes and authorized security testing only. Always obtain appropriate permission before testing any application or system.
-
 
 ### Checklist:
 -----------------------------------------------------------------------
@@ -96,3 +95,4 @@ For educational purposes and authorized security testing only. Always obtain app
 - Replay Testing - WS Replay Testing	WS-007
 - AJAX Vulnerabilities - N.A.	AJ-001
 - AJAX Testing - AJAX weakness	AJ-002
+
