@@ -27,7 +27,7 @@ This repository is designed to help penetration testers, bug bounty hunters, and
 
 For educational purposes and authorized security testing only. Always obtain appropriate permission before testing any application or system.
 
-### Checklist:
+### Checklist
 -----------------------------------------------------------------------
 - Spiders, Robots and Crawlers	IG-001
 - Search Engine Discovery/Reconnaissance	IG-002
